@@ -1,4 +1,4 @@
-# Projeto Rotas Cidades - ENTREGA 28 de outubro de 2023
+# Projeto Rotas Cidades
 O projeto final vem já carregado com alguns ficheiros, nomeadamente:
 - main.c (declaração da função main e include de api.h)
 - api.c e api.h (declaração de algumas macros de preprocessador para o apoiar nas mensagens de saída e de erro).
