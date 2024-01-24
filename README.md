@@ -1,4 +1,4 @@
-## GRUPO COLABORADORES
+## COLABORADORES
 #### Esther Candido
 #### Eliseu Candido
 #### Ruben Alves
